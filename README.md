@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+  <p align="left">   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willianf-Silva&layout=compact&show_icons=true&theme=onedark&hide_title=true&hide=scss,css,html" />  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=patymelo&theme=onedark&show_icons=ture&hide=stars&hide_title=true" /></p>
+
 [![trophy](
 https://github-profile-trophy.vercel.app/?username=patymelo&theme=onedark)](https://github.com/ekonuma/github-profile-trophy)
