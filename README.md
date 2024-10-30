@@ -8,7 +8,16 @@
  <p align="left"> 
   🚀 Linguagens de Programação:
   
-  
+  ![Oracle](https://img.shields.io/badge/oracle-282C34?logo=oracle&logoColor=red)
+  ![Postgresql](https://img.shields.io/badge/postgresql-282C34?logo=postgresql&logoColor=blue)
+  ![eclipse](https://img.shields.io/badge/eclipse-282C34?logo=eclipse)
+  ![Pycharm](https://img.shields.io/badge/pycharm-282C34?logo=pycharm&&logoColor=green)
+  ![Postman](https://img.shields.io/badge/postman-282C34?logo=postman)
+  ![Javascript](https://img.shields.io/badge/Javascript-282C34?style=flat&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/Node.js-282C34?logo=node.js)
+  ![React](https://img.shields.io/badge/React-282C34?logo=react)
+  ![HTML](https://img.shields.io/badge/HTML-282C34?logo=html5)
+  ![CSS](https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6)
  </p>
  <p align="left"> 
   🛠️ Ferramentas e Tecnologias:
