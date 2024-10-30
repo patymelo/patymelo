@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Patricia</h1>
 
 <p align="center">
-  💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
+  🌍 Apaixonado por Tecnologia
 </p><br><br>
 
 
