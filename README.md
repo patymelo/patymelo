@@ -19,8 +19,7 @@
   
 ![patymelo GitHub stats](https://github-readme-stats.vercel.app/api?username=patymelo&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patymelo&layout=pie)](https://github.com/patymelo/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patymelo)](https://github.com/patymelo/github-readme-stats)
+![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=patymelo&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
 
 [![trophy](
 https://github-profile-trophy.vercel.app/?username=patymelo&theme=onedark)](https://github.com/ekonuma/github-profile-trophy)
