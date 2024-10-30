@@ -17,7 +17,7 @@
 [![Linkedin: Patricia](https://img.shields.io/badge/-patricia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/patricia-melo-82667431/)
 
 <p align="left">  
-![patymelo stats](https://github-readme-stats.vercel.app/api?username=patymelo&show_icons=true&theme=tokyonight)  
+![patymelo} GitHub stats](https://github-readme-stats.vercel.app/api?username=patymelo&show_icons=true&theme=tokyonight)
 </p>
 
 [![trophy](
