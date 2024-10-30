@@ -31,5 +31,5 @@
 <p align="left"> 
 
   [![trophy](
-https://github-profile-trophy.vercel.app/?username=patymelo&theme=onedark)](https://github.com/ekonuma/github-profile-trophy)
+ https://github-profile-trophy.vercel.app/?username=patymelo&theme=radical)](https://github.com/ekonuma/github-profile-trophy)
 </p>
