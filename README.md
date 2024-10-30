@@ -18,9 +18,8 @@
 
 <p align="left">  
 ![patymelo GitHub stats](https://github-readme-stats.vercel.app/api?username=patymelo&show_icons=true&theme=tokyonight)
-  
+![patymelo GitHub stats](https://github-readme-stats.vercel.app/api?username=patymelo&show_icons=true&theme=merko)  
 </p>
-![patymelo GitHub stats](https://github-readme-stats.vercel.app/api?username=patymelo&show_icons=true&theme=tokyonight)
 
 [![trophy](
 https://github-profile-trophy.vercel.app/?username=patymelo&theme=onedark)](https://github.com/ekonuma/github-profile-trophy)
