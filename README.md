@@ -17,7 +17,8 @@
   ![React](https://img.shields.io/badge/React-282C34?logo=react)
   ![HTML](https://img.shields.io/badge/HTML-282C34?logo=html5)
   ![CSS](https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6)
-  [![My Skills](https://skillicons.dev/icons?i=vscode,java,pycharm)](https://skillicons.dev)
+  [![Java](https://skillicons.dev/icons?i=vscode,java,pycharm,idea)](https://skillicons.dev)
+ 
  </p>
  <p align="left"> 
   🛠️ Ferramentas e Tecnologias:
