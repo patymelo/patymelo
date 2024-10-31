@@ -3,17 +3,17 @@
   <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
   <br>
 <div align="center">
-  <div style="font-family:"Cursive">
+  <div style="style="font-family: cursive;">
     <img src='https://github.com/patymelo/patymelo/blob/main/ai-generated-8775232_1280.png' style="width: 250px; filter: grayscale(1);">
-      <p style="font-family:"Cursive>Work Hard</p>
-      <p style="font-family:"Cursive>Do your best</p>
-      <p style="font-family:"Cursive>you can do it</p>
-      <p style="font-family:"Cursive>and success is achieved</p>
-      <p style="font-family:"Cursive>Never give up</p>
-      <p style="font-family:"Cursive>Stay focused</p>
-      <p style="font-family:"Cursive>DO what you</p>
-      <p style="font-family:"Cursive>LOVE</p>
-      <p style="font-family:"Cursive>Stay humble!</p>
+      <p style="font-size: 80%;">𝓦𝓸𝓻𝓴 𝓗𝓪𝓻𝓭</p>
+      <p style="font-size: 60%;">𝕯𝖔 𝖞𝖔𝖚𝖗 𝖇𝖊𝖘𝖙</p>
+      <p style="font-size: 60%;">𝓎𝑜𝓊 𝒸𝒶𝓃 𝒹𝑜 𝒾𝓉</p>
+      <p style="font-family: fantasy;">𝘈𝘯𝘥 𝘴𝘶𝘤𝘤𝘦𝘴𝘴 𝘪𝘴 𝘢𝘤𝘩𝘪𝘦𝘷𝘦𝘥</p>
+      <p style="font-family: cursive;">✌𝓷𝓮𝓿𝓮𝓻 𝓰𝓲𝓿𝓮 𝓾𝓹✌</p>
+      <p style="font-family: monospace;">♥S♥t♥a♥y♥ f♥o♥c♥u♥s♥e♥d♥</p>
+      <p style="font-family: cursive;">𝓓𝓞 𝔀𝓱𝓪𝓽 𝔂𝓸𝓾</p>
+      <p style="font-family: cursive;">😍💞💘 𝓛𝓞𝓥𝓔 💔💏💖</p>
+      <p style="font-family: cursive;">𝑺𝒕𝒂𝒚 𝒉𝒖𝒎𝒃𝒍𝒆!</p>
     </img>
   </div>
   <p><a href="https://www.youtube.com/watch?v=CFlhlZbeKgE">- 𝒯𝐸𝒦𝒦𝒩𝒪 𝒯𝑅𝒜𝐼𝒩 - 𝐸𝓁𝑒𝒸𝓉𝓇𝒾𝒸 𝒞𝒶𝓁𝓁𝒷𝑜𝓎</a><p>
