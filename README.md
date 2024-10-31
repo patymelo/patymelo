@@ -9,6 +9,7 @@
       <p style="font-size: 60%;">𝕯𝖔 𝖞𝖔𝖚𝖗 𝖇𝖊𝖘𝖙</p>
       <p style="font-size: 60%;">𝓎𝑜𝓊 𝒸𝒶𝓃 𝒹𝑜 𝒾𝓉</p>
       <p style="font-family: fantasy;">𝘈𝘯𝘥 𝘴𝘶𝘤𝘤𝘦𝘴𝘴 𝘪𝘴 𝘢𝘤𝘩𝘪𝘦𝘷𝘦𝘥</p>
+      <p style="font-family: fantasy;">𝓓𝓻𝓮𝓪𝓶 𝓑𝓘𝓖</p>
       <p style="font-family: cursive;">✌𝓷𝓮𝓿𝓮𝓻 𝓰𝓲𝓿𝓮 𝓾𝓹✌</p>
       <p style="font-family: monospace;">♥S♥t♥a♥y♥ f♥o♥c♥u♥s♥e♥d♥</p>
       <p style="font-family: cursive;">𝓓𝓞 𝔀𝓱𝓪𝓽 𝔂𝓸𝓾</p>
